@@ -8,6 +8,15 @@ body {
 }
 
 
+.wrapper-main
+{
+width: 100%;
+
+}
+
+
+
+
 h1 {
     font-size: 300%;
     color: 1b1e18;
@@ -16,6 +25,7 @@ h1 {
 p {
     font-size: 200%;
     color: #4d693a;
+    
 }
 
 #navbar  {
@@ -24,7 +34,7 @@ p {
     background-color: #2f332d;
     border-color: #2f332d;
     display: flex;
-   justify-content: space-between;
+   justify-content: space-around;
     align-items: flex-start;
 }
 #navbar a {
@@ -48,7 +58,7 @@ color: #2f332d;
     background-color: #2f332d;
     border-color: #2f332d;
     display: flex;
-   justify-content: space-between;
+   justify-content: space-around;
     align-items: end;
 }
 #navbar2 a {
@@ -62,3 +72,9 @@ text-decoration: none;
 {
 color: #2f332d;
 }
+
+
+    
+
+
+
